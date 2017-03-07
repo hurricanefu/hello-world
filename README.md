@@ -1,1 +1,1 @@
-just for fun
+for fun
