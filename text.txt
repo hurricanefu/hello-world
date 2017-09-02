@@ -1,2 +1,2 @@
-master line
+master new line
 dev line
