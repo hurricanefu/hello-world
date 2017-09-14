@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
 zhfont1 = matplotlib.font_manager.FontProperties(fname='C:\Windows\Fonts\simsun.ttc')
-
+#通用绘图(频率分布直方图)操作
 
 # 按照固定区间长度绘制频率分布直方图
 # bins_interval 区间的长度
